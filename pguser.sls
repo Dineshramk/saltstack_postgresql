@@ -3,4 +3,4 @@ pguser:
     - name: pguser
     - createdb: True
     - createuser: True
-    - password: Astra_123
+    - password: pguser
